@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AliFarghadan.github.io/sitemap.xml
+Sitemap: https://ali-farghadan.github.io/sitemap.xml
