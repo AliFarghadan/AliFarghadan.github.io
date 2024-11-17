@@ -1,5 +1,4 @@
-
-
 My academic journey began at Sharif University of Technology (SUT), where I obtained my BSc. Mechanical Engineering. Throughout my undergraduate years, I had the chance to explore a range of research subjects, but the computational fluid dyanmics with core of understanding physics and programming became of my highest interest. That interes took me to Northern Arizona University (NAU) where I earned my MSc in Mechanical Engineering. My research ...
 
 Currently, I am a Phd student at the University of Michigan, where I was fortunate to be advised by Aaron Towne. My research lies at the intersection of fluid dynamics, modal analysis, and high perfomance computing. I developed an efficient algorithm to compute resolvent modes of high dimaneiosnla systems, targeting three-dimanesional flows. After a succesful 
+

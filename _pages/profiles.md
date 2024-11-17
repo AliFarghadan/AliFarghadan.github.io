@@ -2,7 +2,6 @@
 layout: profiles
 permalink: /about/
 title: About Me
-
 description: 
 nav: true
 nav_order: 1
