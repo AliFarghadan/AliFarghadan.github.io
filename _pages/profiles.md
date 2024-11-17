@@ -2,9 +2,8 @@
 layout: profiles
 permalink: /about/
 title: About Me
-subtitle: <a href='https://atowne.com'>Towne Flow Modeling & Control Lab, University of Michigan</a>
 
-# description: 
+description: 
 nav: true
 nav_order: 1
 
@@ -15,6 +14,6 @@ profiles:
     image: prof_pic.jpg
     content: about_ali.md
     image_circular: true # crops the image to make it circular
-    # more_info: 
+    more_info: 
 
 ---
