@@ -16,6 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! Path to data-driven modeling...
-
-<!-- Using this new method, our [work](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stable-threedimensional-vortex-families-consistent-with-jovian-observations-including-the-great-red-spot/D4B5FA0DDEF319F0392A1E022E9852CA) on the three-dimensional structure of Jovian vortices was published in the *Journal of Fluid dynamics*. -->
+Welcome! Here, you’ll find information about my research, interests, and professional background. Feel free to explore, and don’t hesitate to reach out if you’d like to connect or learn more.
